@@ -163,8 +163,9 @@ section li {
         position: relative;
         margin: 0;
         top: 200px;
+        height: calc(100vh - 200px);
         overflow-y: scroll;
         scroll-behavior: smooth;
-        height: 100vh;
+        
     }
 }
