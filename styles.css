@@ -160,6 +160,7 @@ section li {
     }
 
     .content {
-        margin: 200px 0 0;
+        margin: 0;
+        top: 200px;
     }
 }
