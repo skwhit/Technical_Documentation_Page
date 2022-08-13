@@ -165,5 +165,6 @@ section li {
         top: 200px;
         overflow-y: scroll;
         scroll-behavior: smooth;
+        height: 100vh;
     }
 }
