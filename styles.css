@@ -134,6 +134,13 @@ section li {
     color: white;
 }
 
+.copyright {
+    height: 70px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
 @media (max-width:600px) {
     #navbar {
         width: 100%;
